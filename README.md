@@ -51,12 +51,13 @@ Implementation of the necessary functionality for the project tests to pass the 
 
 :heavy_check_mark: Department controller class integration tests with:\
  :heavy_check_mark: Department REST controller;\
- :heavy_check_mark: Service;\
- :heavy_check_mark: Data access (Repository);\
-:heavy_check_mark: Employee controller class integration tests with:\
- :heavy_check_mark: Employee REST controller;\
+ :heavy_check_mark: Department Service;\
+ :heavy_check_mark: Department Data access (Repository);\
+
+:construction: Employee controller class integration tests with:\
+ :construction: Employee REST controller;\
  :heavy_check_mark: Employee Service;\
- :heavy_check_mark: Employee Data access (Repository);\
+ :construction: Employee Data access (Repository);
 
 ## :rocket: Technologies
 
@@ -66,7 +67,7 @@ The following tools were used in this project:
 :heavy_check_mark: [Apache Maven](https://maven.apache.org/guides/index.html);\
 :heavy_check_mark: [Spring Boot](https://glysns.gitbook.io/springframework/);\
 :heavy_check_mark: [Spring Data JPA](https://docs.spring.io/spring-boot/docs/2.5.6/reference/htmlsingle/#boot-features-jpa-and-spring-data);\
-:heavy_check_mark: [MockMvc - Testing Spring Web Layer](https://spring.io/guides/gs/testing-web/);\
+:heavy_check_mark: [MockMvc - Testing Spring Web Layer](https://spring.io/guides/gs/testing-web/);
 
 ## :white_check_mark: Requirements
 
