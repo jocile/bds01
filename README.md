@@ -57,7 +57,7 @@ Implementation of the necessary functionality for the project tests to pass the 
 :heavy_check_mark: Employee controller class integration tests with:\
  :heavy_check_mark: Employee REST controller;\
  :heavy_check_mark: Employee Service;\
- :construction: Employee Data access (Repository);
+ :heavy_check_mark: Employee Data access (Repository);
 
 ## :rocket: Technologies
 
